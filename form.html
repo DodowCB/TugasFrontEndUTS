@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visitor Form</title>
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="gambar/logoku.png">
+
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="gambar/logoku.png" alt="ini logo" class="logo">
+            <ul>
+                <li class="namaweb">Boy With Luv</li>
+                <li><a href="index.html">HOME</a></li>
+                <li>|</li>
+                <li><a href="favorite.html">MY FAVORITE</a></li>
+                <li>|</li>
+                <li><a href="form.html">VISITOR FORM</a></li>
+            </ul>
+        </header>
+
+        <!-- formulir -->
+        <img src="gambar/bg form.png" alt="ini bg form" class="bgform">
+        <center>
+            <form action="index.html" class="formulir">
+                <p for="halo" class="haloform">Thank you for stopping by.</p>
+                <p for="halo2" class="haloform2">Please fill out this form!</p>
+
+                <br><br><br>
+                <label for="nama" class="textform">Nama:</label>
+                <input type="text" name="nama" id="nama" placeholder="Nama Anda" class="isinama">
+
+                <br>
+                <label for="jk" class="textform">Jenis Kelamin:</label>
+                <select name="jk" id="jk" class="isijk">
+                    <option value="no" class="isijk">--</option>
+                    <option value="cowo" class="isijk">Laki - Laki</option>
+                    <option value="cewe" class="isijk">Perempuan</option>
+                </select>
+
+                <br>
+                <label for="umur" class="textform">Umur:</label>
+                <input type="number" name="umur" id="umur" min="1" max="100" class="isiumur">
+
+                <br>
+                <label for="bagus" class="textform">Nilai situs ini:</label>
+                <input type="radio" name="nilai" id="nilai" value="1">
+                <label for="1" class="textform2">1  </label>
+                <input type="radio" name="nilai" id="nilai" value="2">
+                <label for="2" class="textform2">2  </label>
+                <input type="radio" name="nilai" id="nilai" value="3">
+                <label for="3" class="textform2">3  </label>
+                <input type="radio" name="nilai" id="nilai" value="4">
+                <label for="4" class="textform2">4  </label>
+                <input type="radio" name="nilai" id="nilai" value="5">
+                <label for="5" class="textform2">5  </label>
+
+                <br>
+                <textarea name="krisar" id="krisar" cols="37" rows="5" placeholder="Kritik dan Saran Anda" class="krisar"></textarea>
+                
+                <br>
+                <input type="submit" value="SUBMIT" class="lesai">
+            </form>
+        </center>
+
+        <footer>
+            <center>
+                <p class="kata2">Make A Better Life</p>
+                <p>Copyright &copy; Adeltrudo Donal - Front End - 2023</p>
+            </center>
+        </footer>
+    </div>
+    
+</body>
+</html>

@@ -1,0 +1,34 @@
+S1-INFORMATIKA
+
+Deskripsi :
+[Pengumuman Penting]
+Pastikan Tugas UTS dikerjakan karena akan menjadi 60% dari nilai UTS anda, sisanya dapat dari UTS tertulis sesuai dengan jadwal UTS
+---------
+Perhitungan nilai akhir UTS :
+50% nilai UTS + 60% nilai tugas UTS
+
+Larangan :
+- Tidak boleh kembar, bila kembar maka nilai tugas UTS adalah 0
+- Bila ketahuan mengambil template (kodingan) dari internet (seperti colorlib, themeforest, envato, dsb), maka nilai tugas UTS adalah 0
+
+Buat minimal 3 buah halaman website dengan ketentuan:
+1 Halaman untuk biodata diri anda
+1 Halaman untuk hal yang anda favorite kan misal game, movie, grup band, makanan, atau hal favorite apapun yang anda inginkan
+1 Halaman untuk form registrasi untuk memasukkan informasi pengunjung
+Bila kurang dari 3 halaman, maka nilai akhir akan dipotong 1/3
+
+Ketentuan :
+- [10 poin] Tampilan rapi dan indah
+- [10 poin] Total semua section (dari 3 halaman) minimal 6 section (misal dalam satu halaman ada 2 section yaitu banner dan katalog produk)
+- [10 poin] Harus terdiri dari Header, Footer, dan terdapat bagian yang dibagi menjadi minimal 3 kolom (menggunakan DIV)
+- [10 poin] Harus menggunakan HTML dan CSS
+- [10 poin] Terdapat form
+- [10 poin] Terdapat tabel
+- [10 poin] Memiliki link / navigasi (a href) untuk menuju ke halaman lain
+- [10 poin] Terdapat gambar
+- [20 poin] Menerapkan konsep layouting seperti float atau position
+
+Pengumpulan :
+- Pengumpulan dilakukan di eclass
+- Semua asset seperti gambar, font, html, css dijadikan sebuah zip, lalu dikumpulkan ke eclass
+- Batas terakhir pengumpulan adalah pada Jumat 27 Oktober 2023, pukul 23.59 malam
